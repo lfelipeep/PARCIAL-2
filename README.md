@@ -26,7 +26,7 @@ Salir del sistema.
 
 Todo se guarda usando solo variables normales, sin estructuras ni listas.
 
-#Paso a paso del código
+# Paso a paso del código
 
 #**1) Variables iniciales**
 Se crean las variables para cada una de las 3 posibles citas:
