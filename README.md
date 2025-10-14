@@ -38,7 +38,7 @@ string nom3, fec3, hor3, mot3;
 Cada grupo representa una cita diferente (1, 2 y 3). Así evitamos usar arreglos.
 
 #**2) Menú principal**
-El programa se repite en un do...while, mostrando un menú con 5 opciones.
+El programa se repite en un do while, mostrando un menú con 5 opciones.
 ```
 cout << "1. Agendar nueva cita";
 cout << "2. Ver citas por fecha";
